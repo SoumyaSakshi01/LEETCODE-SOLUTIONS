@@ -5,3 +5,20 @@ This repository contains my solutions to LeetCode problems, categorized by topic
 ## 📌 About
 Solving LeetCode problems helps strengthen your problem-solving skills, prepare for technical interviews, and understand core computer science concepts.
 This repo is organized to help you and others easily navigate through problems, find optimal solutions, and learn from the approach.
+
+## 🧠 What’s Inside
+✅ Clean and well-commented code
+🔍 Optimized approaches (with time & space complexity)
+
+## 🔧 Languages Used
+Python 🐍
+
+##
+
+##
+
+##
+
+##
+
+##
