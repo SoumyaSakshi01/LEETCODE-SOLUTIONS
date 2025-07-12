@@ -13,7 +13,10 @@ This repo is organized to help you and others easily navigate through problems, 
 ## 🔧 Languages Used
 Python 🐍
 
-##
+## 📝 How to Use
+Browse folders by topic or difficulty.
+Open any file to read the code and explanation.
+Clone this repo if you'd like to practice or fork it to contribute
 
 ##
 
